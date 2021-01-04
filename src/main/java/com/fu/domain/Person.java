@@ -10,5 +10,6 @@ package com.fu.domain;
  */
 public class Person {
     private String id;
-    private string name;
+    private String name;
+    private String address;
 }
